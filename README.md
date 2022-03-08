@@ -3,7 +3,7 @@
 I am content creator & python geek who love to guide new programmers with their journey.I also have knowledge of python library and framwork like Numpy,Pandas,Sk-learn and
 Django respectively.Check out my IG code & YT code repos for python projects.
 
-- 🌱 I’m currently learning C# & Machine Learnig 
+- 🌱 I’m currently learning Machine Learnig 
 - 📫 How to reach me: Instagram & Email 
 - 💬 Ask me about python & ML/DS Basics
 
