@@ -1,21 +1,17 @@
-## Hi there 👋, my name is Megh
+## Hi there👋, my name is Megh
 
-I am content creator & python geek who love to guide new programmers with their journey.I also have knowledge of python library and framwork like Numpy,Pandas,Sk-learn and
-Django respectively.Check out my IG code & YT code repos for python projects.
+I am python geek who love to guide new programmers with their journey.I also have knowledge of python library  like Numpy,Pandas,Sk-learn and Django.Check out my IG code & YT code repos for python projects.
 
-- 🌱 I’m currently learning Machine Learnig 
+- 🌱 Currently learning Machine Learnig 
 - 📫 How to reach me: Instagram & Email 
 - 💬 Ask me about python & ML/DS Basics
 
 ## Skills 🤹
-- 🐍 Python
-- 🖥️ HTML/CSS
-- 🤖 Machine Learning(Basic)
-
-## Projects 💪
+- Language: Python, C++, SQL
+- Technologies: Pandas, Numpy, Sk-learn, Matplotlib, HTML/CSS, Postgre SQL
+- Tools: SQL Server, PG Admin, Jupyter Notenook, VS Code, Anaconda
 ### Django
 - Weather App (web scraping)
-- Ststic portfolio
 - URL shortner
 ### ML/DS
 - Breast Cancer prediction
