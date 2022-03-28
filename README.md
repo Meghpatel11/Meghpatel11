@@ -10,6 +10,8 @@ I am python geek who love to guide new programmers with their journey.I also hav
 - Language: Python, C++, SQL
 - Technologies: Pandas, Numpy, Sk-learn, Matplotlib, HTML/CSS, Postgre SQL
 - Tools: SQL Server, PG Admin, Jupyter Notenook, VS Code, Anaconda
+### Portfolio Projects
+- https://meghpatel11.github.io/Megh.github.io/
 ### Django
 - Weather App (web scraping)
 - URL shortner
