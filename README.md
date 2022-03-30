@@ -1,9 +1,9 @@
 ## Hi there👋, my name is Megh
 
-I am python geek who love to guide new programmers with their journey.I also have knowledge of python library  like Numpy,Pandas,Sk-learn and Django.Check out my IG code & YT code repos for python projects.
+I am python geek who love to guide new programmers with their journey.I also have knowledge of python library like Numpy,Pandas,Sk-learn and Django.Check out my IG code & YT code repos for python projects.
 
 - 🌱 Currently learning Machine Learnig 
-- 📫 How to reach me: Instagram & Email 
+- 📫 How to reach me: Instagram DM & Email 
 - 💬 Ask me about python & ML/DS Basics
 
 ## Skills 🤹
